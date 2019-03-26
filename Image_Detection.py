@@ -1,4 +1,4 @@
-#Import the object detection class
+#Import the object detection class. Image AI is an object detection library developed by DeepQuest AI
 from imageai.Detection import ObjectDetection
 import os
 
